@@ -1,0 +1,61 @@
+####
+MONEY REPORT
+####
+
+--- [high7] ---
+* ID: 638729
+* Money made each month: No money made
+--- [high7] ---
+
+
+--- [high6] ---
+* ID: 131878
+* Money made each month: No money made
+--- [high6] ---
+
+
+--- [high5] ---
+* ID: 508692
+* Money made each month: No money made
+--- [high5] ---
+
+
+--- [high4] ---
+* ID: 817635
+* Money made each month: 2022-06: 1896 |
+--- [high4] ---
+
+
+--- [high1] ---
+* ID: 237852
+* Money made each month: No money made
+--- [high1] ---
+
+
+--- [high1] ---
+* ID: 156852
+* Money made each month: No money made
+--- [high1] ---
+
+
+--- [234] ---
+* ID: 752588
+* Money made each month: No money made
+--- [234] ---
+
+
+--- [435] ---
+* ID: 462388
+* Money made each month: 2022-06: 24 |
+--- [435] ---
+
+
+--- [em apartment] ---
+* ID: 813250
+* Money made each month: No money made
+--- [em apartment] ---
+
+####
+MONEY REPORT END
+####
+Available on: D:\Doron\עבודות יא\סייבר\FinalProject\TempHouse\clientf\temps\gen_money.txt
